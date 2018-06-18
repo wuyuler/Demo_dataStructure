@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1525836283 source:e:\我的坚果云\c++程序\test_串_封装\main.cpp
+	<iostream>
+	"time.h"
+	"String.hpp"
+	"Sunday.hpp"
+
+1522552261 e:\我的坚果云\c++程序\test_串_封装\seplist.hpp
+	<memory>
+	<iostream>
+
+1525834128 e:\我的坚果云\c++程序\test_串_封装\string.hpp
+	"SepList.hpp"
+	<string.h>
+
+1525834368 e:\我的坚果云\c++程序\test_串_封装\sunday.hpp
+
