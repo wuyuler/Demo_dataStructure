@@ -10,8 +10,12 @@ struct Graph
 		vexnum = strlen(names);
 		strcpy(vertices, names);
 		for (int i = 0;i < vexnum;i++) {
-			for (int j = 0;j < vexnum;j++)
+			for (int j = 0;j < vexnum;j++) {
 				arcs[i][j] = INFINITY;
+				if (i == j)arcs[i][j] = 0;
+
+			}
+				
 
 		}
 	}
