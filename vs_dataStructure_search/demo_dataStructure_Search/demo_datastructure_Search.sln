@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo_binarySearch", "demo_b
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo_AVLTree", "demo_AVLTree\demo_AVLTree.vcxproj", "{06315093-0149-4EA3-8984-ED93F0C99FCD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo_Hash", "demo_Hash\demo_Hash.vcxproj", "{092F59B2-2C76-4C3B-B09B-FD8B1092801E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{06315093-0149-4EA3-8984-ED93F0C99FCD}.Release|x64.Build.0 = Release|x64
 		{06315093-0149-4EA3-8984-ED93F0C99FCD}.Release|x86.ActiveCfg = Release|Win32
 		{06315093-0149-4EA3-8984-ED93F0C99FCD}.Release|x86.Build.0 = Release|Win32
+		{092F59B2-2C76-4C3B-B09B-FD8B1092801E}.Debug|x64.ActiveCfg = Debug|x64
+		{092F59B2-2C76-4C3B-B09B-FD8B1092801E}.Debug|x64.Build.0 = Debug|x64
+		{092F59B2-2C76-4C3B-B09B-FD8B1092801E}.Debug|x86.ActiveCfg = Debug|Win32
+		{092F59B2-2C76-4C3B-B09B-FD8B1092801E}.Debug|x86.Build.0 = Debug|Win32
+		{092F59B2-2C76-4C3B-B09B-FD8B1092801E}.Release|x64.ActiveCfg = Release|x64
+		{092F59B2-2C76-4C3B-B09B-FD8B1092801E}.Release|x64.Build.0 = Release|x64
+		{092F59B2-2C76-4C3B-B09B-FD8B1092801E}.Release|x86.ActiveCfg = Release|Win32
+		{092F59B2-2C76-4C3B-B09B-FD8B1092801E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
