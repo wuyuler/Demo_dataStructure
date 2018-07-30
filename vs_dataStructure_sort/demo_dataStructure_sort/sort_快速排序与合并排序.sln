@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sort_快速排序与合并排序", "sort_快速排序与合并排序\sort_快速排序与合并排序.vcxproj", "{EF303715-0D0C-4651-A556-07863FA5E392}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo_InsertSoreAndShellSort", "demo_InsertSoreAndShellSort\demo_InsertSoreAndShellSort.vcxproj", "{4B9B4A4F-A1F6-459B-AFCF-19370A692A7C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo_InsertSortAndShellSort", "demo_InsertSoreAndShellSort\demo_InsertSoreAndShellSort.vcxproj", "{4B9B4A4F-A1F6-459B-AFCF-19370A692A7C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo_selectSoreAndMinHeap", "demo_selectSoreAndMinHeap\demo_selectSoreAndMinHeap.vcxproj", "{1C669521-8510-4D30-BF57-8BE65A5FC0B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{4B9B4A4F-A1F6-459B-AFCF-19370A692A7C}.Release|x64.Build.0 = Release|x64
 		{4B9B4A4F-A1F6-459B-AFCF-19370A692A7C}.Release|x86.ActiveCfg = Release|Win32
 		{4B9B4A4F-A1F6-459B-AFCF-19370A692A7C}.Release|x86.Build.0 = Release|Win32
+		{1C669521-8510-4D30-BF57-8BE65A5FC0B5}.Debug|x64.ActiveCfg = Debug|x64
+		{1C669521-8510-4D30-BF57-8BE65A5FC0B5}.Debug|x64.Build.0 = Debug|x64
+		{1C669521-8510-4D30-BF57-8BE65A5FC0B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C669521-8510-4D30-BF57-8BE65A5FC0B5}.Debug|x86.Build.0 = Debug|Win32
+		{1C669521-8510-4D30-BF57-8BE65A5FC0B5}.Release|x64.ActiveCfg = Release|x64
+		{1C669521-8510-4D30-BF57-8BE65A5FC0B5}.Release|x64.Build.0 = Release|x64
+		{1C669521-8510-4D30-BF57-8BE65A5FC0B5}.Release|x86.ActiveCfg = Release|Win32
+		{1C669521-8510-4D30-BF57-8BE65A5FC0B5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
